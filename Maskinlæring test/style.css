@@ -1,0 +1,18 @@
+:root{
+    margin: 1em;
+    font-size:xx-large;
+}
+
+.rute{
+    height: 2em;
+    width: 2em;
+    float:left;
+    border: solid 2px black;
+    margin: 0.2em;
+    text-align: center;
+    padding: 2em;
+}
+
+.rute.først{
+    clear:left;
+}
